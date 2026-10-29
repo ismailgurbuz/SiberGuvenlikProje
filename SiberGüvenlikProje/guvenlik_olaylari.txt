@@ -1,0 +1,5 @@
+DDOS;103;mailsunucusu;9;true;3.0
+DDOS;olay-105;sdsdsd;8;true;4.0
+FIDYE;OLAY-102;FinansDB;9;true;1200
+DDOS;OLAY-101;AnaWebSunucu;6;true;45.0
+ERISIM;OLAY-103;AktifDizin;8;true;true
